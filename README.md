@@ -3,7 +3,7 @@
 
 ## Домашние задания:
 
-- Домашнее задание 1 [Ссылка](Android-Basics/README.md)
+- Домашнее задание [Кэширование локальных данных](LocalCacheHomeTask.md)
 
 ## Обучающий курс📚:
 [Записаться на курс по ссылке](http://intensive.androidschool.ru/basics/?utm_source=github&utm_medium=readme&utm_campaign=description)
