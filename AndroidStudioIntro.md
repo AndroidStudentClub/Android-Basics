@@ -32,10 +32,7 @@
 - Импортировать цвета из макетов. Оранжевый, белый. серый, темно-серый.
 - Импортировать иконки и изображения блюд в Android-проект. Для этого дважды кликнуть на изображение и выбрать кнопку Export. После этого добавить сохраненную иконку в папку drawables в Android-проекте.
 ![Импорт из Figma](images/import_from_figma.png)
-- Создать WelcomeActivity и сделать ее стартовой (прописать intent-filter Main).
-- Скопировать xml верстку и вставить в файл activity_welcome.xml
-- Добавить библиотеку Timber в build.gradle и залогировать методы onCreate() в экранах Activity. [Ccылка](https://github.com/JakeWharton/timber)
-- Выполнить команды git commit -m “Добавлены ресурсы и Activity”. (Перед этим не забудьте создать новую ветку feature/home-work-1 и переключиться на нее через git checkout ИмяВетки)
+- Выполнить команды git commit -m “Добавлены ресурсы”. (Перед этим не забудьте создать новую ветку feature/home-work-1 и переключиться на нее через git checkout ИмяВетки)
 - Запушить на удаленный репозиторий (git push origin feature/home-work-1)
 - Создать Pull Request как показано в уроке
 - Прислать ссылку на Pull Request

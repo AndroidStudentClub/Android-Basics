@@ -34,7 +34,7 @@
 ### 📚 Полезные материалы:
 
 - [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
-- [Kotlin Developer HyperSkill](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
+- [Kotlin Developer HyperSkill](https://hyperskill.org/tracks/3)
 - [Книга Kotlin](https://www.ozon.ru/context/detail/id/155266078/)
 - [Try Kotlin](https://try.kotlinlang.org/)
 - [Туториалы от Google](https://developer.android.com/courses/kotlin-bootcamp/overview)
