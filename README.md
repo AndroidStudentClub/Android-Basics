@@ -6,6 +6,7 @@
 - Оформление домашнего задания [Описание](HomeWorkDescription.md)
 - Домашнее задание [Введение в Android Studio](AndroidStudioIntro.md)
 - Домашнее задание [Программирование Kotlin](KotlinHomeTask.md)
+- Домашнее задание [Activity и основы верстки](HomeWorkActivity.md)
 - Домашнее задание [Сетевой слой в приложении](NetworkLayerHomeTask.md)
 - Домашнее задание [Кэширование локальных данных](LocalCacheHomeTask.md)
 
