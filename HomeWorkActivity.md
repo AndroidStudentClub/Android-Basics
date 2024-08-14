@@ -42,11 +42,17 @@
   - Для пароля минимум 6 символов
 
 - Создать LoginActivity и сверстать макет.
+- После нажатия на кнопку Войти или Регистрация необходимо открывать MainActivity
 - Добавить библиотеку Timber в build.gradle и залогировать методы onCreate() в экранах Activity. Ccылка https://github.com/JakeWharton/timber
 
 
 Итоговый результат показан на схеме:
 ![Схема](images/register_flow.png)
+
+### 📝  Подсказки для верстки
+
+Пример верстки RegisterActivity
+![Схема](images/register_screen_hint.png)
 
 ### 📚 Полезные материалы:
 
@@ -61,3 +67,4 @@
 - Добавление selectors https://stackoverflow.com/questions/3192173/change-icons-of-checked-and-unchecked-for-checkbox-for-android/3193127#3193127
 - Как создать Activity https://startandroid.ru/ru/uroki/vse-uroki-spiskom/58-urok-21-sozdanie-i-vyzov-activity.html
 - Как открыть новую Activity https://stackoverflow.com/questions/16641643/how-to-add-new-activity-to-existing-project-in-android-studio
+- TextInputLayout https://github.com/material-components/material-components-android/blob/master/docs/components/TextField.md
