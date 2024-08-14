@@ -7,7 +7,7 @@
 - Домашнее задание 1 [Введение в Android Studio](AndroidStudioIntro.md)
 - Домашнее задание 2 [Программирование Kotlin](KotlinHomeTask.md)
 - Домашнее задание 3 [Activity и основы верстки](HomeWorkActivity.md)
-- Домашнее задание 4 [Сложные виджеты](HomeWorkActivity.md)
+- Домашнее задание 4 [Основы верстки. Часть 2](HomeWorkBasicUI.md)
 - Домашнее задание 6 [Сетевой слой в приложении](NetworkLayerHomeTask.md)
 - Домашнее задание 7 [Кэширование локальных данных](LocalCacheHomeTask.md)
 
